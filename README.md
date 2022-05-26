@@ -1,7 +1,7 @@
 
 # Timer Class
 
-Used Timer Class UIKit 
+Using Timer Class UIKit 
 
 
 
